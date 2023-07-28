@@ -1,4 +1,6 @@
 Credits
-    - Image: Medical stethoscope placed on white background
-      Author: Karolina Grabowska
-      Contact: https://www.instagram.com/kaboompics/
+    - Image: Sunset-image-with-trees-in-background
+      Author: Lukas Bieri 
+      Source: Pixabay
+      Contact: https://www.instagram.com/lukas.d.bieri/
+               https://lukas-bieri.ch/
