@@ -33,8 +33,9 @@ nav ul{
 .below-nav {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: stretch;
     margin: 80px;
+    flex: 1 1 0;
 }
 h1{
     font-size: 48px;
@@ -57,4 +58,7 @@ nav span {
     padding: 8px 35px;
     border-radius: 8px;
     border: none;
+}
+.left {
+    flex-wrap: wrap;
 }
