@@ -7,6 +7,8 @@ img{
 }
 header {
     background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
 }
 nav {
     display:flex;
