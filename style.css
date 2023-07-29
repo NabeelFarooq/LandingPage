@@ -92,3 +92,24 @@ h2 {
 .information p {
     padding: 1px 5px;
 }
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /*align-items: center;*/
+    align-content: center;
+    padding: 65px 180px 55px 180px;
+}
+.quote p {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: light;
+    font-style: italic;
+}
+.quote h3 {
+    color: #1F2937;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
