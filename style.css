@@ -89,3 +89,6 @@ h2 {
 .information img {
     border-radius: 10%;
 }
+.information p {
+    padding: 1px 5px;
+}
