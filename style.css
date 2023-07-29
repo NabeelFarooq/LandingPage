@@ -71,4 +71,11 @@ nav span {
 .image-gallery {
     display: flex;
     flex: 1 1 0;
+    gap: 8px;
+}
+.information {
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex: 1 1 0;
 }
