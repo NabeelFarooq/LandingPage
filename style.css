@@ -5,6 +5,7 @@ body {
 img{
     width:  500px;
     height: 220px;
+    max-width:100%;
 }
 header {
     background-color: #1F2937;
@@ -65,4 +66,9 @@ nav span {
 }
 .left {
     flex-wrap: wrap;
+}
+
+.image-gallery {
+    display: flex;
+    flex: 1 1 0;
 }
